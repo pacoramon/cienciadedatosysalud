@@ -10,7 +10,7 @@ Como substrato de análisis reutilizamos los datos digitales recogidos por el si
 ### Equipo
 - **Dr. Enrique Bernal Delgado (Investigador principal)**
 - Dra. Ester Angulo Pueyo (Investigadora en Políticas y Servicios Sanitarios)
-- Francisco Estupiñán Romero (Investigador en Políticas y Servicios Sanitarios)
+- Dr. Francisco Estupiñán Romero (Investigador en Políticas y Servicios Sanitarios)
 - Javier González Galindo (Ingeniero de datos)
 - Ramón Launa Garcés (Técnico Gestión proyectos europeos)
 - Dra. Natalia Martínez Lizaga (Investigadora en Políticas y Servicios Sanitarios)
